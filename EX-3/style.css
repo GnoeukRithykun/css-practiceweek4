@@ -1,1 +1,18 @@
 /* TODO */
+button{
+    border: 20px solid rgb(208, 117, 132);
+    border-radius: 150px;
+    font-size: 200px;
+    background-color: pink;
+    padding: 40px;
+}
+body{
+    text-align: center;
+    margin-top: 10%;
+    font-family: sans-serif;
+}
+button:hover{
+    background-color: rgb(199, 142, 151);
+     border: 20px solid rgb(72, 46, 50);
+
+}
