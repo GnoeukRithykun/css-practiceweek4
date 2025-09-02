@@ -1,0 +1,61 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.div1{
+    border: 20px solid white;
+    background-color: white;
+    width: 1000px;
+    height: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 100px;
+}
+.div2{
+    border: 20px solid white;
+    background-color: white;
+    width: 1000px;
+    height: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.div3{
+    border: 20px solid white;
+    background-color: white;
+    width: 1000px;
+    height: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: 30px; 
+}
+.div1>button{
+    border-radius: 25px;
+    background-color: rgb(22, 137, 124);
+    width: 150px;
+    height: 50px;
+}
+.div2>button{
+    border-radius: 25px;
+    background-color: rgb(239, 166, 39);
+    width: 150px;
+    height: 50px;
+}
+.div3>button{
+    border-radius: 25px;
+    background-color: rgb(111, 6, 99);
+    width: 150px;
+    height: 50px;
+}
+.div1>button:hover{
+    background-color: brown;
+}
+.div2>button:hover{
+    background-color: brown;
+}
+.div3>button:hover{
+    background-color: brown;
+}
